@@ -28,7 +28,7 @@ Contributions welcome! Follow Contributing Guidelines to get involved.
 
 **How To Download ?**
 1. Just Download Both Files
-2. Extract Any One File Using Winrar [(https://www.rarlab.com/download.htm)] It Will Give You One Exe 
+2. Extract Any One File Using Winrar [https://www.rarlab.com/download.htm] It Will Give You One Exe 
 **Made By:-**
  Unknown18
 
