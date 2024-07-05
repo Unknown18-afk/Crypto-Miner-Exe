@@ -1,9 +1,9 @@
-👋 Hi, I’m @Unknown18-afk
-👀 I’m interested in Basketball
-🌱 I’m currently learning Python
-💞️ I’m looking to collaborate on Youtube Vids
-😄 Pronouns: He/Him
-⚡ Fun fact: 
+- 👋 Hi, I’m @Unknown18-afk
+- 👀 I’m interested in Basketball
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Youtube Vids
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
 **CryptoMiner Pro:-**
 Overview
