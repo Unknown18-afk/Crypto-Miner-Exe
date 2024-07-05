@@ -34,8 +34,6 @@ CryptoMiner Pro is licensed under the MIT License. See LICENSE file for details.
 Contributions welcome! Follow Contributing Guidelines to get involved.
 
 **How To Download ?**
-
-<ol>
     <li>
         <strong> Option 1: GitHub</strong>
         <ul>
@@ -59,7 +57,6 @@ Contributions welcome! Follow Contributing Guidelines to get involved.
             <li>Extract the zip file to get the exe, Run It & Enjoy!!</li>
         </ul>
     </li>
-</ol>
 
 **Made By:-**
  Unknown18
