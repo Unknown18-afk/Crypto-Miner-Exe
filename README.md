@@ -40,7 +40,7 @@ Download both files from the GitHub repository.
 - It will give you an exe file, Run the Crypto-Miner-Exe
     Option 2: Website
   
-- Visit the website to download - [ https://unknown18-afk.github.io/Miner-Website18 ]
+- Visit the website to download - <a href="https://unknown18-afk.github.io/Miner-Website18" > CLICK ME
 - Extract the zip file and run the .exe.
 
 **Made By:-**
